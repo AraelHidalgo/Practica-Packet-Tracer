@@ -20,7 +20,7 @@ Este proyecto consiste en la configuración de diferentes redes y dispositivos u
 
 Cada equipo se encargará de una parte del proyecto, detallada a continuación:
 
-- **Equipo 1**: Cálculo de subredes.
+~~- **Equipo 1**: Cálculo de subredes.~~
 - **Equipo 2**: Configuración de dispositivos de la red (DHCP local).
 - **Equipo 3**: Configuración de routers de cada red (IP, nombre, contraseña, interfaces y puertos).
 - **Equipo 4**: Configuración de ruteo estático.
